@@ -1,0 +1,10 @@
+assignment
+student
+dog
+cat
+root
+toor
+kali
+linux
+ftpattack
+socket
