@@ -1,7 +1,7 @@
 # FTP-Attack-in-c
 c code for FTP dictionary  Attack TCP/IP socket (client and server)
 first>> Go to the command line and compile this 5 code using gcc compiler for that type this command on command line
-" sudo gcc client.c HandleTCPServer.c HandleTCPServer.h Utils.c Utils.h -o anythinga "
+" sudo gcc ftpclient.c HftpTCPServer.c HftpTCPServer.h Utilsftp.c Utilsftp.h -o anythinga "
 and press enter
 Second>>> type on command line ./anything <IP address of Victim> <Port Number> <Usernamefile> <PasswordFile>
 as a example for localhost>>
